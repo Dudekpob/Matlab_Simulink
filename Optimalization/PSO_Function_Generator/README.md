@@ -1,3 +1,5 @@
+#using try in command window >>main
+
 #Introduction
 Particle swarm optimization (PSO) is a derivative-free global optimum solver. It is inspired by the surprisingly organized behaviour of large groups of simple animals, such as flocks of birds, schools of fish, or swarms of locusts. The individual creatures, or "particles", in this algorithm are primitive, knowing only four simple things: 1 & 2) their own current location in the search space and fitness value, 3) their previous personal best location, and  4) the overall best location found by all the particles in the "swarm". There are no gradients or Hessians to calculate. Each particle continually adjusts its speed and trajectory in the search space based on this information, moving closer towards the global optimum with each iteration. As seen in nature, this computational swarm displays a remarkable level of coherence and coordination despite the simplicity of its individual particles.
 
