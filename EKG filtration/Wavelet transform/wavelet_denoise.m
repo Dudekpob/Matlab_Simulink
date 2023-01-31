@@ -1,4 +1,4 @@
-function [sigDEN,wptDEN] = func_denoise_wp1d(SIG)
+function [sigDEN,wptDEN] = wavelet_denoise(SIG)
 % FUNC_DENOISE_WP1D Saved Denoising Process.
 %   SIG: vector of data
 %   -------------------
