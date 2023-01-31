@@ -1,4 +1,4 @@
-function sigDEN = falkowy(SIG)
+function sigDEN = wavelet(SIG)
 
 wname = 'haar';
 level = 5;
